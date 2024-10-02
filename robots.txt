@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dumogo.github.io/gbP/sitemap.gbP.gz
